@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import "./App.css";
 import { Todos } from "./components/Todos/Todos";
 import Geolocation from "./components/GeolocationAPI/Geolocation";
 
